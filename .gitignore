@@ -1,0 +1,36 @@
+# C++ objects and libs
+*.slo
+*.lo
+*.o
+*.obj
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.dll
+*.lib
+*.sbr
+
+# Qt specific
+.qmake.stash
+*.qmake.cache
+*.prl
+*.app
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+qmake-destination-pi
+
+# Qt Creator specific
+*.user
+*.user.*
+
+# Build folders
+build-*/
+debug/
+release/
+Makefile
+Makefile.*
